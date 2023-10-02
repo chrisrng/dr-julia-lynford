@@ -2115,7 +2115,7 @@ input, select, textarea {
 						}
 
 						#main > .panel.intro .pic img {
-							border-radius: 95% 95% 0 0;
+							border-radius: 10em 10em 0 0;
 						}
 
 						#main > .panel.intro header {
