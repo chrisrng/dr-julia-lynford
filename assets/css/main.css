@@ -2150,6 +2150,11 @@ input, select, textarea {
 						background-color: #BE3455;
 					}
 
+					#main > .panel > .contact-section a.sx-verified-seal {
+						margin-top: 0.5em;
+						display: inline-block !important;
+					}
+
 /* Footer */
 
 	#footer {
