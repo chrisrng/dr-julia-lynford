@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+   <url>
+      <loc>https://www.drjulialynford.com</loc>
+      <image:image>
+         <image:loc>https://www.drjulialynford.com/images/me.jpg</image:loc>
+         <image:caption>A picture of Dr. Julia Lynford</image:caption>
+         <image:title>Dr. Julia Lynford</image:title>
+      </image:image>
+      <lastmod>2023-10-05</lastmod>
+   </url>
+</urlset>

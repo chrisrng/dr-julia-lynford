@@ -2126,7 +2126,6 @@ input, select, textarea {
 				}
 
 				@media screen and (max-width: 736px) {
-
 					#main > .panel.intro .pic {
 						height: 40em;
 					}
@@ -2142,18 +2141,28 @@ input, select, textarea {
 
 				}
 
-				#main > .panel > .contact-section {
+				#main > .panel > .button-section.mobile-only {
+					display: none;
+				}
+
+				#main > .panel > .button-section {
 					text-align: center;
 				}
 
-					#main > .panel > .contact-section .button {
+					#main > .panel > .button-section .button {
 						background-color: #BE3455;
 					}
 
-					#main > .panel > .contact-section a.sx-verified-seal {
+					#main > .panel > .button-section a.sx-verified-seal {
 						margin-top: 0.5em;
 						display: inline-block !important;
 					}
+
+			  @media screen and (max-width: 736px) {
+					#main > .panel > .button-section.mobile-only {
+						display: block;
+					}
+				}
 
 /* Footer */
 
